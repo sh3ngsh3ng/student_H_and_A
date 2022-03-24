@@ -1,0 +1,16 @@
+/* start of styling from 375px below */
+body {
+    background-color: blue;
+}
+
+
+.box {
+    height: 100px;
+    width: 500px;
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+/* end of styling from 375px below */
+
+
